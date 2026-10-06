@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-hickory-proto = "0.24"
+hickory-proto = "0.26"
 postcard.workspace = true
 redis.workspace = true
 serde.workspace = true
